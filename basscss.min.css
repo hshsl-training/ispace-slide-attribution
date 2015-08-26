@@ -9,3 +9,7 @@ a:hover {
   border-color: #DE1A32;
   transition: all 0.2s ease-out 0s;
 }
+
+@media (min-width: 40em) {
+  .sm-p0  { padding: 0 }
+}
