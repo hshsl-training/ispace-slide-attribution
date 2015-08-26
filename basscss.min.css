@@ -5,7 +5,7 @@ a {
   border: 1px solid transparent;
 }
 a:hover {
-  background-color: rgba(222,26,50,.2);
+  background-color: rgba(222,26,50,.3);
   border-color: #DE1A32;
   transition: all 0.2s ease-out 0s;
 }
