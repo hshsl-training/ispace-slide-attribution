@@ -2,5 +2,7 @@ body{margin:0}img{max-width:100%}svg{max-height:100%}fieldset,input,select,texta
 
 /* BZ customizations */
 a:hover {
-  background-color: rgba(127,219,255,.5);
+  background-color: rgba(127,219,255,.3);
+  border-color: #33B8FF;
+  transition: border-color 0.2s ease-out 0s;
 }
