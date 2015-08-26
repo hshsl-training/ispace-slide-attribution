@@ -10,6 +10,6 @@ a:hover {
   transition: all 0.2s ease-out 0s;
 }
 
-@media (min-width: 52em) {
-  .md-p0  { padding: 0 }
+@media (min-width: 64em) {
+  .lg-p0  { padding: 0 }
 }
