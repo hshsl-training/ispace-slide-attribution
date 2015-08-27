@@ -5,8 +5,8 @@ a {
   border: 1px solid transparent;
 }
 a:hover {
-  background-color: rgba(255,220,0,.3);
-  border-color: #FFDC00;
+  background-color: rgba(255,205,0,.3);
+  border-color: #FFCD00;
   transition: all 0.2s ease-out 0s;
 }
 
